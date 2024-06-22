@@ -1,0 +1,471 @@
+Source,Title,Abstract,Inventors,Application Number,Publication Date,Filing Date,Patent Images
+FPO,Systems and techniques for recommending personalized health care based on demographics,"Computer program products are configured to perform methods for determining likely health conditions based on demographic information and/or determining appropriate wearable technology and services to monitor a patient's health. In one embodiment, a computer program product is configured to perform a method including receiving historical demographic data comprising a plurality of attributes; associating the historical demographic data with labels corresponding to known causes of particular health conditions; building a decision tree model using the historical demographic data and the associated label(s); generating a vector Yk using the model, Yk representing probable causes of a plurality of health conditions; and determining likely health conditions for a patient based on comparing the vector Yk to a second vector Zk, Zk representing probable causes of health conditions determined based on a health care record for the patient. Appropriate wearables for tracking the health of the patient may be determined using textual analysis.","Asthana, Shubhi (Santa Clara, CA, US)
+Strong Jr., Hovey R. (San Jose, CA, US)",15/331630,02/15/2022,10/21/2016,https://www.freepatentsonline.com/11250958.pdf
+FPO,3D assessment of conjugant eye deviation for the identificaiton of acute ischemic stroke,Disclosed herein are systems and methods for computing a 3D conjugate gaze adjusted length (CGAL) using 3D scans. The measurements for determining CGAL are measured on a clipping plane generated from the 3D CT scans. Acute ischemic strokes (AIS) is determined if the CGAL is greater than 0.28 with high specificity.,"Maresky, Hillel Sarel (Toronto, CA)
+Klar, Miriam Michelle (Bergenfield, NJ, US)
+Tal, Sigal (Savyon, IL)
+Levitt, Max (Toronto, CA)",16/201136,08/04/2020,11/27/2018,https://www.freepatentsonline.com/10729389.pdf
+FPO,USE OF CD26 AND CD39 AS NEW PHENOTYPIC MARKERS FOR ASSESSING MATURATION OF FOXP3+ T CELLS AND USES THEREOF FOR DIAGNOSTIC PURPOSES,"Among regulatory T cells, natural regulatory T cells (nTregs) ensure the control of self-tolerance and are currently tested in clinical trials in autoimmune diseases and allogeneic hematopoietic stem cell transplantation. Here the inventors show that based on CD39/CD26 markers, the human nTreg population is comprised of 5 major cell subsets each representing a distinct state of maturation. Phenotypic and genetic characteristics of the subsets illustrate the structural parental maturation between subsets which further correlates with expression of regulatory factors. Importantly, the inventors also show that blood nTreg CD39/CD26 profile, remaining constant over a 2year period in healthy persons but varying between individuals, represents a novel biomarker for monitoring chronic diseases, as illustrated in their preliminary study on AI (dermatomyositis, rheumatoid arthritis and leukemias). Accordingly, the present invention relates to the use of CD26 and CD39 as phenotypic markers for assessing maturation of natural Treg cells.","Zagury, Daniel (Paris, FR)
+Le Buanec, Hélène (Paris, FR)
+Bensussan, Armand (Paris, FR)
+Cassius, Charles (Paris Cedex 10, FR)",17/311509,01/20/2022,12/06/2019,https://www.freepatentsonline.com/20220018835.pdf
+FPO,Preservation and controlled delivery / release of spermatozoa,"The present invention relates to biopolymer particles for preservation of spermatozoa, wherein the spermatozoa are embedded within the biopolymer particle. The present invention also regards a method for preservation, storage and controlled delivery/release of spermatozoa, and the use of the biopolymer particles according to the present invention in breeding.","Kommisrud, Elisabeth (Stange, NO)
+Hofmo, Peer Ola (Hamar, NO)
+Klinkenberg, Geir (Heimdal, NO)",12/305654,05/15/2012,07/03/2007,https://www.freepatentsonline.com/8178130.pdf
+FPO,SINGLE DOSE RECOMBINANT BOVINE FSH AFTER FOLLICULAR SYNCHRONISATION,The present invention relates to methods and compositions for increasing reproduction performance in non-human mammals using a biologically active recombinant Follicle Stimulating Hormone (rFSH). The invention also relates to methods for increasing ovulation or embryo production or pregnancies in non-human mammal using rFSH. The invention may be used in particular in ungulates such as bovine or equine.,"Souza, Alexandre (CARIGNAN DE BORDEAUX, FR)
+Isaka, Naomi (LIBOURNE, FR)
+Carrie, Aude (LES BILLAUX, FR)
+Thibaud, Dominique (BORDEAUX, FR)",14/443193,11/26/2015,11/15/2013,https://www.freepatentsonline.com/20150335713.pdf
+FPO,Method of treating and prognosing scoliotic patient subgroups,"The present invention provides a method of treating a subject in need thereof comprising classifying the subject into functional group FG1, FG2 or FG3, wherein i) when the subject is classified into the FG1 functional group, (A) the level of OPN or the activity of OPN in said subject is increased; (B) the subject is not treated with a brace; or (C) a combination of (A) and (B); and ii) when the subject is classified into the FG2 or FG3 functional group, (A) the level of OPN or the activity of OPN in said subject is decreased; (B) the subject is treated with a brace; or (C) a combination of (A) and (B).","Moreau, Alain (Montreal, CA)
+Akoume Ndong, Marie-yvonne (Montreal, CA)",17/015006,01/02/2024,09/08/2020,https://www.freepatentsonline.com/11860169.pdf
+FPO,Preservation and Controlled Delivery / Release of Spermatozoa,"The present invention relates to biopolymer particles for preservation of spermatozoa, wherein the spermatozoa are embedded within the biopolymer particle. The present invention also regards a method for preservation, storage and controlled delivery/release of spermatozoa, and the use of the biopolymer particles according to the present invention in breeding.","Kommisrud, Elisabeth (Stange, NO)
+Hofmo, Per Ola (Hamar, NO)
+Klinkenberg, Geir (Heimdal, NO)",12/305654,02/18/2010,07/03/2007,https://www.freepatentsonline.com/20100041941.pdf
+FPO,MSH2 AND ADJUVANT CISPLATIN-BASED CHEMOTHERAPY IN NON-SMALL-CELL LUNG CANCER,"The invention is generally directed to a diagnostic method for predicting the benefit of the response of a subject diagnosed with cancer to a platinum compound-based adjuvant chemotherapy, preferably to a cisplatin-based chemotherapy which implements the determination of the MSH2 expression level in the biological sample containing tumor cells, and, optionally, the ERCC1 expression level.","Fouret, Pierre (Paris, FR)
+Soria, Jean-charles (Igny, FR)",13/256814,01/05/2012,03/19/2010,https://www.freepatentsonline.com/20120004136.pdf
+FPO,METHOD OF TREATING AND PROGNOSING SCOLIOTIC PATIENT SUBGROUPS,"The present invention provides a method of predicting brace treatment outcome in a subject in need thereof comprising i) classifying the subject into functional group FG1, FG2 or FG3, wherein the classification enables the prediction of brace treatment outcome. Also provided are methods of determining risk of developing scoliosis, methods of treating Idiopathic scoliosis and kits for applying the methods.","Moreau, Alain (Montréal, CA)
+Akoume Ndong, Marie-yvonne (Montréal, CA)",14/917786,08/04/2016,09/09/2014,https://www.freepatentsonline.com/20160223567.pdf
+FPO,SYSTEM AND METHOD FOR PROCESSING IMAGES,A method of processing a plurality of time separated images comprises selecting a plurality of imaging units in each image; measuring a temporal difference in each imaging unit; and selecting temporal differences above a threshold limit.,"Lee, Ting Yim (London, CA)",14/628731,08/20/2015,02/23/2015,https://www.freepatentsonline.com/20150230771.pdf
+FPO,SYSTEM AND METHOD FOR PROCESSING IMAGES,A method of processing a plurality of time separated images comprises selecting a plurality of imaging units in each image; measuring a temporal difference in each imaging unit; and selecting temporal differences above a threshold limit.,"Lee, Ting Yim (London, CA)",13/122379,10/27/2011,10/02/2009,https://www.freepatentsonline.com/20110262022.pdf
+FPO,METHOD FOR TREATING MINOR APHTHOUS ULCERS,"A method for treating recurrent minor aphthous ulcers is provided in which a sufferer is treated with a combination therapy of Vitamin B6 and B12 compounds. The treatment is done orally and the treatment minimizes the duration and pain of the sore, as well as increasing the period of time between recurrences.","Tope, Rick (North Las Vagas, NV, US)",11/420376,11/29/2007,05/25/2006,https://www.freepatentsonline.com/20070275056.pdf
+FPO,PARP AND ADJUVANT CISPLATIN-BASED CHEMOTHERAPY IN NON-SMALL-CELL LUNG CANCER,"The invention is generally directed to a diagnostic method for predicting the benefit of the response of a subject diagnosed with cancer to a platinum compound-based adjuvant chemotherapy, preferably to a cisplatin-based chemotherapy which implements the determination of the PARP expression level in the biological sample containing tumor cells, and, preferably, together with the MSH2 and/or ERCC1 expression level, more preferably together with the MSH2 and ERCC1 expression levels.","Andre, Fabrice (Sceaux, FR)
+Olaussen, Ken André (Paris, FR)
+Soria, Jean-charles (Igny, FR)",13/386474,11/01/2012,07/26/2010,https://www.freepatentsonline.com/20120277110.pdf
+FPO,ASSOCIATION BETWEEN INTEGRATION OF VIRAL AS HPV OR HIV GENOMES AND THE SEVERITY AND/OR CLINICAL OUTCOME OF DISORDERS AS HPV ASSOCIATED CERVICAL LESIONS OR AIDS PATHOLOGY,"The invention concerns the detection and the quantification of integrated nucleic acids of viruses and thus the detection and follow-up of reservoir cells harbouring such integrated viral genomes. One aspect of the invention is directed to a method for detecting a level of integrated viral DNA that includes removing episomal viral or vector nucleic acids from genomic DNA in a cell sample, and quantifying a number of integrations of viral DNA into the genomic DNA of the cells by a method of amplification of an integration region in the DNA sample; thereby detecting a level of integrated viral DNA in the genomic DNA from a cell sample, such as a biological sample containing HPV virus and DNA.","Bensimon, Aaron (Bagneux, FR)
+Bouchilloux, Stephanie (Chatenay Malabry, FR)
+Fer, Frederic (Paris, FR)
+Cavarec, Laurent (Vincennes, FR)
+Mahe, Florence (Thiais, FR)",17/298395,03/03/2022,11/29/2019,https://www.freepatentsonline.com/20220064742.pdf
+FPO,"System and method for detecting, collecting, analyzing, and communicating event-related information","A system and method involves detecting operational social disruptive events on a global scale, assigning disease or non-disease event staging and warnings to express data in more simplistic terms, modeling data in conjunction with linguistics analysis to establish responsive actions, generating visualization and modeling capabilities for communicating information, and modeling disease or non-disease propagation for containment and forecasting purposes.","Humayun, Ahmed A. (Washington, DC, US)
+Silverstein, Steven J. (Somerville, MA, US)
+Zalasky, Gregory P. (Norfolk, VA, US)
+Jones, Kevin D. (Washington, DC, US)",15/661976,12/10/2019,07/27/2017,https://www.freepatentsonline.com/10503347.pdf
+FPO,METHODS AND PHARMACEUTICAL COMPOSITIONS FOR INDUCING IMMUNE TOLERANCE BY MUCOSAL VACCINATION WITH FC-COUPLED ANTIGENS,"The present invention relates to methods and pharmaceutical compositions of inducing immune tolerance by mucosal vaccination with Fc-coupled antigens. In particular, the present invention relates to a method for inducing tolerance to one antigen of interest in a subject in need thereof, comprising the mucosal administration to the subject of a therapeutically effective amount of a recombinant chimeric construct comprising a FcRn targeting moiety and an antigen-containing moiety.","Mallone, Roberto (Paris Cedex 14, FR)
+Culina, Slobodan (Paris, FR)
+Gupta, Nimesh (Paris, FR)
+Lacroix-desmazes, Sebastien (Paris, FR)",17/555761,06/09/2022,12/20/2021,https://www.freepatentsonline.com/20220175896.pdf
+FPO,Kits for classifying a subject having or at risk for developing idiopathic scoliosis,"A method of classifying a subject having idiopathic scoliosis (IS) or at risk of developing IS comprising: determining the cellular response to Gi stimulation in a cell sample from the subject in the presence of OPN; determining the cellular response to Gi stimulation in a cell sample from the subject in the absence of OPN; and comparing the cellular response obtained in the presence of OPN with the cellular response obtained in the absence of OPN, whereby the comparing step enables the classification of the subject into one IS functional group. Also provided is the use of the foregoing method to classify borderline subjects and kits for applying the methods.","Moreau, Alain (Montréal, CA)
+Akoume Ndong, Marie-yvonne (Montréal, CA)",14/917757,04/02/2019,09/09/2014,https://www.freepatentsonline.com/10247737.pdf
+FPO,Thyromimetics for the treatment of fatty liver diseases,"The present invention is directed toward the use of thyromimetic compounds that are thyroid receptor ligands, pharmaceutically acceptable salts thereof, and to prodrugs of these compounds for preventing, treating, or ameliorating fatty liver diseases such as steatosis, non-alcoholic fatty liver disease, and non-alcoholic steatohepatitis.","Cable, Edward E. (San Diego, CA, US)
+Erion, Mark D. (Del Mar, CA, US)",12/955292,11/20/2018,11/29/2010,https://www.freepatentsonline.com/10130643.pdf
+FPO,Thyromimetics for the treatment of fatty liver diseases,"The present invention is directed toward the use of thyromimetic compounds that are thyroid receptor ligands, pharmaceutically acceptable salts thereof, and to prodrugs of these compounds for preventing, treating, or ameliorating fatty liver diseases such as steatosis, non-alcoholic fatty liver disease, and non-alcoholic steatohepatitis.","Cable, Edward E. (San Diego, CA, US)
+Erion, Mark D. (Del Mar, CA, US)",16/195782,02/23/2021,11/19/2018,https://www.freepatentsonline.com/10925885.pdf
+FPO,Peristaltic pump,"A peristaltic pump having at least first, second, and third stages is provided. The peristaltic pump includes a plunger, inlet and outlet valves, a spring, and an actuator. The plunger actuates toward and away from a tube, the inlet valve is upstream of the plunger, the outlet valve is downstream of the plunger, the spring biases the plunger toward the tube, and the actuator mechanically engages and disengages from the plunger. In the first stage, the inlet valve is opened and the plunger is actuated from the tube, in the second stage, the inlet valve is closed, the plunger is actuated toward the tube, and the actuator is mechanically disengaged from the plunger, and in the third stage, the outlet valve is opened. In the third stage or in a fourth stage, the actuator actuates the plunger toward the tube to discharge fluid downstream past the outlet valve.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",16/271046,06/01/2021,02/08/2019,https://www.freepatentsonline.com/11024409.pdf
+FPO,Peristaltic pump,"A peristaltic pump having at least first, second, and third stages is provided. The peristaltic pump includes a plunger, inlet and outlet valves, a spring, and an actuator. The plunger actuates toward and away from a tube, the inlet valve is upstream of the plunger, the outlet valve is downstream of the plunger, the spring biases the plunger toward the tube, and the actuator mechanically engages and disengages from the plunger. In the first stage, the inlet valve is opened and the plunger is actuated from the tube, in the second stage, the inlet valve is closed, the plunger is actuated toward the tube, and the actuator is mechanically disengaged from the plunger, and in the third stage, the outlet valve is opened. In the third stage or in a fourth stage, the actuator actuates the plunger toward the tube to discharge fluid downstream past the outlet valve.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",15/841961,02/12/2019,12/14/2017,https://www.freepatentsonline.com/10202971.pdf
+FPO,Peristaltic pump,"A peristaltic pump having at least first, second, and third stages is provided. The peristaltic pump includes a plunger, inlet and outlet valves, a spring, and an actuator. The plunger actuates toward and away from a tube, the inlet valve is upstream of the plunger, the outlet valve is downstream of the plunger, the spring biases the plunger toward the tube, and the actuator mechanically engages and disengages from the plunger. In the first stage, the inlet valve is opened and the plunger is actuated from the tube, in the second stage, the inlet valve is closed, the plunger is actuated toward the tube, and the actuator is mechanically disengaged from the plunger, and in the third stage, the outlet valve is opened. In the third stage or in a fourth stage, the actuator actuates the plunger toward the tube to discharge fluid downstream past the outlet valve.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",17/332153,09/12/2023,05/27/2021,https://www.freepatentsonline.com/11756662.pdf
+FPO,Process for producing arsenic trioxide formulations and methods for treating cancer using arsenic trioxide or melarsoprol,"The invention relates to the use of arsenic compounds to treat a variety of leukemia, lymphoma and solid tumors. Further, the arsenic compounds may be used in combination with other therapeutic agents, such as a retinoid. The invention also provides a process for producing arsenic trioxide formulations.","Warrell Jr., Raymond P. (Westfield, NJ, US)
+Pandolfi, Pier Paolo (New York, NY, US)
+Gabrilove, Janice L. (New York, NY, US)",12/974076,09/25/2012,12/21/2010,https://www.freepatentsonline.com/8273379.pdf
+FPO,Genotyping methods using genomic sequence of the 5-lipoxygenase-activating protein (FLAP) and polymorphic markers thereof,The invention concerns the genomic sequence of the FLAP gene. The invention also concerns biallelic markers of a FLAP gene and the association established between these markers and diseases involving the leukotriene pathway such as asthma. The invention provides means to determine the predisposition of individuals to diseases involving the leukotriene pathway as well as means for the diagnosis of such diseases and for the prognosis/detection of an eventual treatment response to agents acting on the leukotriene pathway.,"Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)",12/345703,11/23/2010,12/30/2008,https://www.freepatentsonline.com/7838241.pdf
+FPO,Process for producing arsenic trioxide formulations and methods for treating cancer using arsenic trioxide or melarsoprol,"The invention relates to the use of arsenic compounds to treat a variety of leukemia, lymphoma and solid tumors. Further, the arsenic compounds may be used in combination with other therapeutic agents, such as a retinoid. The invention also provides a process for producing arsenic trioxide formulations.","Warrell Jr., Raymond P. (Westfield, NJ, US)
+Pandolfi, Pier Paolo (New York, NY, US)
+Gabrilove, Janice L. (New York, NY, US)",11/239704,02/01/2011,09/30/2005,https://www.freepatentsonline.com/7879364.pdf
+FPO,Process for producing arsenic trioxide formulations and methods for treating cancer using arsenic trioxide or melarsoprol,"The invention relates to the use of arsenic compounds to treat a variety of leukemia, lymphoma and solid tumors. Further, the arsenic compounds may be used in combination with other therapeutic agents, such as a retinoid. The invention also provides a process for producing arsenic trioxide formulations.","Warrell Jr., Raymond P. (Westfield, NJ, US)
+Pandolfi, Pier Paolo (New York, NY, US)
+Gabrilove, Janice L. (New York, NY, US)",10/759616,02/15/2005,01/16/2004,https://www.freepatentsonline.com/6855339.pdf
+FPO,Process for producing arsenic trioxide formulations and methods for treating cancer using arsenic trioxide or melarsoprol,"The invention relates to the use of arsenic compounds to treat a variety of leukemia, lymphoma and solid tumors. Further, the arsenic compounds may be used in combination with other therapeutic agents, such as a retinoid. The invention also provides a process for producing arsenic trioxide formulations.","Warrell Jr., Raymond P. (Westfield, NJ, US)
+Pandolfi, Pier Paolo (New York, NY, US)
+Gabrilove, Janice L. (New York, NY, US)",10/758994,03/01/2005,01/16/2004,https://www.freepatentsonline.com/6861076.pdf
+FPO,Polymorphic markers of the LSR gene,"The invention provides novel LSR genomic sequences, polypeptides, antibodies, and polynucleotides including biallelic markers derived from the LSR locus. Primers hybridizing to regions flanking these biallelic markers are also provided. This invention also provides polynucleotides and methods suitable for genotyping a nucleic acid containing sample for one or more biallelic markers of the invention. Further, the invention provides methods to detect a statistical correlation between a biallelic marker allele and a phenotype and/or between a biallelic marker haplotype and a phenotype.","Blumenfeld, Marta (Paris, FR)
+Bougueleret, Lydie (Vanves, FR)
+Bihain, Bernard (Encinitas, CA, US)",10/214684,10/24/2006,08/07/2002,https://www.freepatentsonline.com/7125667.pdf
+FPO,Immunogenic anti-inflammatory compositions,"The invention provides methods of formulating an anti-inflammatory composition for treating inflammatory conditions in a specific organ or tissue. The method involves selecting at least one pathogen that is pathogenic in the specific organ or tissue; producing an antigenic composition comprising antigenic determinants that together are specific for the pathogen; and formulating the antigenic composition for administration as an anti-inflammatory composition capable of eliciting an anti-inflammatory response in the specific organ or tissue. In embodiments of the invention the pathogen may be an endogenous pathogen, such as an endogenous bacterial pathogen. The pathogen may be an exogenous pathogen, such as a bacterial pathogen, viral pathogen, a fungal pathogen, or a helminth pathogen.","Gunn, Harold David (Vancouver, CA)
+Dhanji, Salim (North Vancouver, CA)
+Premack, Brett Anthony (San Francisco, CA, US)
+Chow, Michael Tak Huai (Richmond, CA)",13/359441,11/20/2018,01/26/2012,https://www.freepatentsonline.com/10130692.pdf
+FPO,USER MEDIA PLATFORM SERVER SYSTEM,"In some embodiments, the disclosure is directed to a digital media system that uses a decentralized communication system to transfer digital data. In some embodiments, the digital data includes digital property, currency, and instructions for executing financial transactions. In some embodiments, the digital media system controls the storage and flow of digital data through specified nodes located in specified jurisdictions. In some embodiments, by controlling the location of stored digital data and the node route through which digital data flows, the digital media system enables an improved social media network that can be used in the battle to end world poverty.","Burke, Timothy E. (Exeter, GB)",16/989588,02/11/2021,08/10/2020,https://www.freepatentsonline.com/20210042830.pdf
+FPO,Apparatus and method for infusing fluid through a tube by appropriately heating the tube,"A peristaltic pump disclosed herein includes a raceway, a plunger, a motor, and a heater. The raceway is configured to retain a tube (e.g., an IV tube). The plunger acts on the tube disposed within the raceway. The motor engages the plunger to actuate the plunger. The heater is disposed in thermal-conductive contact with the tube. That is, the heater, either through direct or indirect application, heats the tube.","Biasi, John J. (Groton, MA, US)
+Gray, Larry B. (Merrimack, NH, US)
+Pawlowski, Daniel F. (Raymond, NH, US)",16/377453,06/13/2023,04/08/2019,https://www.freepatentsonline.com/11672903.pdf
+FPO,Process for producing arsenic trioxide formulations and methods for treating cancer using arsenic trioxide or melarsoprol,"The invention relates to the use of arsenic compounds to treat a variety of leukemia, lymphoma and solid tumors. Further, the arsenic compounds may be used in combination with other therapeutic agents, such as a retinoid. The invention also provides a process for producing arsenic trioxide formulations.","Warrell Jr., Raymond P. (Westfield, NJ, US)
+Pandolfi, Pier Paolo (New York, NY, US)
+Gabrilove, Janice L. (New York, NY, US)",10/759290,01/03/2006,01/16/2004,https://www.freepatentsonline.com/6982096.pdf
+FPO,"Compounds useful as inhibitors of indoleamine 2,3-dioxygenase and/or tryptophan dioxygenase","Compounds of formula (VII), which are useful as inhibitors of indoleamine 2,3-dioxygenase and/or tryptophan dioxygenase, are provided. Also provided are pharmaceutical compositions, kits comprising said compounds, and methods and uses pertaining to said compounds.","Lewis, Richard T. (Missouri City, TX, US)
+Hamilton, Matthew (Missouri City, TX, US)
+Jones, Philip (Houston, TX, US)
+Petrocchi, Alessia (Houston, TX, US)
+Reyna, Naphtali (Arlington, TX, US)
+Cross, Jason (Pearland, TX, US)
+Han, Michelle (Houston, TX, US)
+Soth, Michael (Sugar Land, TX, US)
+Mcafoos, Timothy (Pearland, TX, US)
+Tremblay, Martin (Waltham, MA, US)",16/478076,11/16/2021,01/16/2018,https://www.freepatentsonline.com/11173145.pdf
+FPO,Peristaltic pump,"A peristaltic pump is disclosed that includes a plunger, a spring, an actuator, a position sensor, and a processor. The plunger actuates toward and away from a tube. The spring biases the plunger toward the tube. The actuator actuates the plunger away from the tube and mechanically engages and disengages from the plunger. The position sensor senses a position of the plunger. The processor receives the sensed position of the plunger and estimates fluid flow within the tube using a first position of the plunger when the actuator is engaged with the plunger and a second position of the plunger when the actuator is disengaged from the plunger.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",16/359134,06/28/2022,03/20/2019,https://www.freepatentsonline.com/11373747.pdf
+FPO,"Genomic sequence of the 5-lipoxygenase-activating protein (FLAP), polymorphic markers thereof and methods for detection of asthma",The invention concerns the genomic sequence of the FLAP gene. The invention also concerns biallelic markers of a FLAP gene and the association established between these markers and diseases involving the leukotriene pathway such as asthma. The invention provides means to determine the predisposition of individuals to diseases involving the leukotriene pathway as well as means for the diagnosis of such diseases and for the prognosis/detection of an eventual treatment response to agents acting on the leukotriene pathway.,"Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)",11/512789,02/24/2009,08/29/2006,https://www.freepatentsonline.com/7494777.pdf
+FPO,Methods of assessing the risk for the development of sporadic prostate cancer,"The invention concerns the genomic sequence of the purH gene. The invention also concerns biallelic markers of a purH gene and the association established between these markers and cancer, particularly prostate cancer. The invention provides means to determine the predisposition of individuals to cancer as well as means for the diagnosis of cancer and for the prognosis/detection of an eventual treatment response to agents acting on cancer.","Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Cohen-akenine, Annick (Paris, FR)",11/285466,09/23/2008,11/22/2005,https://www.freepatentsonline.com/7427482.pdf
+FPO,Tissue targeted antigenic activation of the immune response to treat cancers,The invention provides in part methods of treating cancers of a specific organ or tissue by administering a composition that is antigenically specific for one or more microbes that are pathogenic in the specific organ or tissue in which the cancer is situated.,"Gunn, Harold David (Vancouver, CA)",15/073441,10/02/2018,03/17/2016,https://www.freepatentsonline.com/10086066.pdf
+FPO,"Prostate cancer cell lines, gene signatures and uses thereof","The present disclosure, in part, is directed to a mammalian prostate cancer cell line comprising at least one or a set of primary mammalian epithelial cells which have been infected with a retroviral vector carrying an oncogene selected from the group consisting of c-Myc, Ha-Ras, NeuT, c-Src and combinations thereof and in which said gene is expressed. Applications of the pro-state cell lines, including immune competent animal models of prostate cancer, a method for the in vitro production of immortalized primary mammalian epithelial cells, a method of determining whether a human subject having prostate cancer is suffering from or at risk for developing metastasis, a method of preventing cancer or inhibiting metastasis of cancer susceptible to treatment in a subject at risk for developing cancer or metastasis of cancer, and method of identifying a candidate compound that selectively interferes with proliferation or viability of a cancer cell that has elevated levels of CCR5 and/or of at least one of its ligands.","Pestell, Richard G. (Philadelphia, PA, US)",14/003384,03/23/2021,03/09/2012,https://www.freepatentsonline.com/10952415.pdf
+FPO,Peristaltic pump,"A peristaltic pump and related-method are disclosed that includes a cam shaft having a plunger cam, a plunger-cam follower that engages the plunger cam of the cam shaft, a tube receiver, a spring, a plunger, a position sensor, and a processor. The tube receiver receives a tube. The spring provides a bias. The plunger is biased toward the tube by the spring and the plunger is to the plunger-cam follower, such that expansion of the plunger cam along a radial angle intersecting the plunger-cam follower as the cam shaft rotates actuates the plunger away from the tube. The position sensor determines a position of the plunger and the processor estimates fluid flow within the tube utilizing the position of the plunger.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",16/389042,05/31/2022,04/19/2019,https://www.freepatentsonline.com/11348674.pdf
+FPO,Genomic sequence of the purH gene and purH-related biallelic markers,"The invention concerns the genomic sequence of the purH gene. The invention also concerns biallelic markers of a purH gene and the association established between these markers and cancer, particularly prostate cancer. The invention provides means to determine the predisposition of individuals to cancer as well as means for the diagnosis of cancer and for the prognosis/detection of an eventual treatment response to agents acting on cancer.","Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Cohen-akenine, Annick (Paris, FR)",10/376893,05/09/2006,02/27/2003,https://www.freepatentsonline.com/7041454.pdf
+FPO,"Schizophrenia associated genes, proteins and biallelic markers","The invention concerns the human sbg1, g34665, sbg2, g35017 and g35018 genes, polynucleotides, polypeptides biallelic markers, and human chromosome 13q31-q33 biallelic markers. The invention also concerns the association established between schizophrenia and bipolar disorder and the biallelic markers and the sbg1, g34665, sbg2, g35017 and g35018 genes and nucleotide sequences. The invention provides means to identify compounds useful in the treatment of schizophrenia, bipolar disorder and related diseases, means to determine the predisposition of individuals to said disease as well as means for the disease diagnosis and prognosis.","Cohen, Daniel (Le Vézinet, FR)
+Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Bihain, Bernard (Cancale, FR)
+Essioux, Laurent (Paris, FR)",11/145703,05/13/2008,06/06/2005,https://www.freepatentsonline.com/7371811.pdf
+FPO,"Apolipoprotein A-IV-related protein: polypeptide, polynucleotide sequences and biallelic markers thereof","The invention provides the genomic sequence of AA4RP, AA4RP cDNAs and AA4RP polypeptides. Further the invention provides polynucleotides including biallelic markers derived from the AA4RP gene and from genomic regions flanking the gene. This invention also provides polynucleotides and methods suitable for genotyping a nucleic acid containing sample for one or more biallelic markers of the invention. Further, the invention provides methods to detect a statistical correlation between a biallelic marker allele and a phenotype and/or between a biallelic marker haplotype and a phenotype. The invention also relates to diagnostic methods for determining whether an individual is at risk of developing a lipid metabolism related disorder and/or a liver related disorder, or whether said individual suffers from a lipid metabolism related disorder and/or a liver related disorder as a result of a polymorphism in the AA4RP gene.","Yen-potin, Frances (San Diego, CA, US)
+Denison, Blake (San Diego, CA, US)
+Milne Edwards, Jean Baptiste Dumas (Paris, FR)
+Bihain, Bernard (Carlsbad, CA, US)
+Bour, Barbara (San Diego, CA, US)
+Duclert, Aymeric (Saint-Maur, FR)
+Bougueleret, Lydie (Petit Lancy, CH)",09/842364,02/13/2003,04/25/2001,https://www.freepatentsonline.com/20030032783.pdf
+FPO,"Schizophrenia associated genes, proteins and biallelic markers","The invention concerns the human sbg1, g34665, sbg2, g35017 and g35018 genes, polynucleotides, polypeptides biallelic markers, and human chromosome 13q31-q33 biallelic markers. The invention also concerns the association established between schizophrenia and bipolar disorder and the biallelic markers and the sbg1, g34665, sbg2, g35017 and g35018 genes and nucleotide sequences. The invention provides means to identify compounds useful in the treatment of schizophrenia, bipolar disorder and related diseases, means to determine the predisposition of individuals to said disease as well as means for the disease diagnosis and prognosis.","Cohen, Daniel (Paris, FR)
+Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le-Penil, FR)
+Bougueleret, Lydie (Petit Lancy, CH)
+Bihain, Bernard (Cancale, FR)
+Essioux, Laurent (Paris, FR)",10/147603,06/27/2006,05/16/2002,https://www.freepatentsonline.com/7067627.pdf
+FPO,Polymorphic markers of the LSR gene,"The invention provides novel LSR genomic sequences, polypeptides, antibodies, and polynucleotides including biallelic markers derived from the LSR locus. Primers hybridizing to regions flanking these biallelic markers are also provided. This invention also provides polynucleotides and methods suitable for genotyping a nucleic acid containing sample for one or more biallelic markers of the invention. Further, the invention provides methods to detect a statistical correlation between a biallelic marker allele and a phenotype and/or between a biallelic marker haplotype and a phenotype.","Blumenfeld, Marta (Paris, FR)
+Bougueleret, Lydie (Petit Lancy, CH)
+Bihain, Bernard (Cancale, FR)",10/214684,10/09/2003,08/07/2002,https://www.freepatentsonline.com/20030190636.pdf
+FPO,APM1 biallelic markers and uses thereof,"The invention provides novel APM1 genomic sequences, polypeptides, antibodies, and polynucleotides including biallelic markers derived from the APM1 locus. Primers hybridizing to regions flanking these biallelic markers are also provided. This invention also provides polynucleotides and methods suitable for genotyping a nucleic acid containing sample for one or more biallelic markers of the invention. Additionally, the invention provides methods to detect a statistical correlation between a biallelic marker allele and a phenotype and/or between a biallelic marker haplotype and a phenotype. Further, the invention provides diagnostic methods for early detection of obesity-related disorders.","Bougueleret, Lydie (Petit-Lancy, CH)
+Bihain, Bernard (Cancale, FR)
+Denison, Blake (Dublin, CA, US)
+Yen-potin, Frances (Vandoeuvre-les-Nancy, FR)",11/390954,07/27/2006,03/28/2006,https://www.freepatentsonline.com/20060166259.pdf
+FPO,"System, method, and apparatus for infusing fluid","A peristaltic pump, and related system method are provided. The peristaltic pump includes a cam shaft, first and second pinch-valve cams, first and second pinch-valve cam followers, a plunger cam, a plunger-cam follower, a tube receiver, and a spring-biased plunger. The first and second pinch-valve cams are coupled to the cam shaft. The first and second pinch-valve cam followers each engage the first and second pinch-valve cams, respectively. The plunger cam is coupled to the cam shaft. The plunger-cam follower engages the plunger cam. The tube receiver is configured to receive a tube. The spring-biased plunger is coupled to the plunger-cam follower such that the expansion of the plunger cam along a radial angle intersecting the plunger-cam follower as the cam shaft rotates pushes the plunger cam follower towards the plunger and thereby disengages the spring-biased plunger from the tube. A spring coupled to the spring-biased plunger biases the spring-biased plunger to apply the crushing force to the tube.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Gray, Larry B. (Merrimack, NH, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)",16/259257,04/05/2022,01/28/2019,https://www.freepatentsonline.com/11295846.pdf
+FPO,Genomic sequence of the purH gene and purH-related biallelic markers,"The invention concerns the genomic sequence of the purH gene. The invention also concerns biallelic markers of a purH gene and the association established between these markers and cancer, particularly prostate cancer. The invention provides means to determine the predisposition of individuals to cancer as well as means for the diagnosis of cancer and for the prognosis/detection of an eventual treatment response to agents acting on cancer.","Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Cohen-akenine, Annick (Paris, FR)",10/376893,11/27/2003,02/27/2003,https://www.freepatentsonline.com/20030219794.pdf
+FPO,Genomic sequence of the purH gene and purH-related biallelic markers,"The invention concerns the genomic sequence of the purH gene. The invention also concerns biallelic markers of a purH gene and the association established between these markers and cancer, particularly prostate cancer. The invention provides means to determine the predisposition of individuals to cancer as well as means for the diagnosis of cancer and for the prognosis/detection of an eventual treatment response to agents acting on cancer.","Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Cohen-akenine, Annick (Paris, FR)",11/285466,04/06/2006,11/22/2005,https://www.freepatentsonline.com/20060073512.pdf
+FPO,IMMORTALIZED MYOBLAST CELL LINES AND USES THEREOF,The present invention relates to immortalized human cells particularly useful for cell encapsulation therapy and methods of preparation and use thereof.,"Lathuilière, Aurélien (GENEVA, CH)
+Mach, Nicolas (COLLONGE-BELLERIVE, CH)
+Salmon, Patrick (LE GRAND-SACONNEX, CH)",17/634563,08/25/2022,08/12/2020,https://www.freepatentsonline.com/20220265727.pdf
+FPO,"Genomic sequence of the 5-Lipoxygenase-activating protein (FLAP), polymorphic markers thereof and methods for detection of asthma",The invention concerns the genomic sequence of the FLAP gene. The invention also concerns biallelic markers of a FLAP gene and the association established between these markers and diseases involving the leukotriene pathway such as asthma. The invention provides means to determine the predisposition of individuals to diseases involving the leukotriene pathway as well as means for the diagnosis of such diseases and for the prognosis/detection of an eventual treatment response to agents acting on the leukotriene pathway.,"Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)",10/359512,09/08/2005,02/05/2003,https://www.freepatentsonline.com/20050196752.pdf
+FPO,"Genomic sequence of the 5-Lipoxygenase-activating protein (FLAP), polymorphic markers thereof and methods for detection of asthma",The invention concerns the genomic sequence of the FLAP gene. The invention also concerns biallelic markers of a FLAP gene and the association established between these markers and diseases involving the leukotriene pathway such as asthma. The invention provides means to determine the predisposition of individuals to diseases involving the leukotriene pathway as well as means for the diagnosis of such diseases and for the prognosis/detection of an eventual treatment response to agents acting on the leukotriene pathway.,"Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)",10/359512,10/10/2006,02/05/2003,https://www.freepatentsonline.com/7118869.pdf
+FPO,Apparatus for infusing fluid,"A pump for pumping fluid includes a tube platen, a plunger, a bias member, inlet and outlet valves, an actuator mechanism, a position sensor, and a processor. The plunger is configured for actuation toward and away from the infusion-tube when the tube platen is disposed opposite to the plunger. The tube platen can hold an intravenous infusion tube. The bias member is configured to urge the plunger toward the tube platen.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Parker, Jonathan (Contoocook, NH, US)
+Pawlowski, Daniel F. (Raymond, NH, US)
+Van Der, Merwe Dirk A. (Canterbury, NH, US)
+Gray, Larry B. (Merrimack, NH, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Slate, Michael J. (Merrimack, NH, US)",13/840339,06/13/2017,03/15/2013,https://www.freepatentsonline.com/9675756.pdf
+FPO,Peristaltic pump,"A peristaltic pump is disclosed that includes a plunger, a spring, an actuator, a position sensor, and a processor. The plunger actuates toward and away from a tube. The spring biases the plunger toward the tube. The actuator actuates the plunger away from the tube and mechanically engages and disengages from the plunger. The position sensor senses a position of the plunger. The processor receives the sensed position of the plunger and estimates fluid flow within the tube using a first position of the plunger when the actuator is engaged with the plunger and a second position of the plunger when the actuator is disengaged from the plunger.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",15/866581,05/14/2019,01/10/2018,https://www.freepatentsonline.com/10288057.pdf
+FPO,Peristaltic pump,"A peristaltic pump includes a plunger-cam follower, a tube receiver, a spring-biased plunger, a spring, a position sensor, and a processor. The plunger-cam follower engages the plunger cam to follow the plunger cam and to disengage from the plunger cam. The spring-biased plunger is coupled to the plunger-cam follower and the spring biases the spring-biased plunger toward the tube receiver. The position sensor determines a position of the spring-biased plunger when the plunger-cam follower is disengaged from the plunger came. The processor estimates fluid flow utilizing at least the position of the spring-biased plunger as indicated by the position sensor when the plunger-cam follower is disengaged from the plunger cam and the spring biases the spring-biased plunger against the tube.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",17/000538,07/18/2023,08/24/2020,https://www.freepatentsonline.com/11705233.pdf
+FPO,"SCHIZOPHRENIA ASSOCIATED GENES, PROTEINS AND BIALLELIC MARKERS","The invention concerns the human sbg1, g34665, sbg2, g35017 and g35018 genes, polynucleotides, polypeptides biallelic markers, and human chromosome 13q31-q33 biallelic markers. The invention also concerns the association established between schizophrenia and bipolar disorder and the biallelic markers and the sbg1, g34665, sbg2, g35017 and g35018 genes and nucleotide sequences. The invention provides means to identify compounds useful in the treatment of schizophrenia, bipolar disorder and related diseases, means to determine the predisposition of individuals to said disease as well as means for the disease diagnosis and prognosis.","Cohen, Daniel (Le Vesinet, FR)
+Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Bihain, Bernard (Cancale, FR)
+Essioux, Laurent (Paris, FR)",12/056900,07/31/2008,03/27/2008,https://www.freepatentsonline.com/20080182268.pdf
+FPO,Peristaltic pump,"A peristaltic pump includes a cam shaft, first and second pinch-valve cams, first and second pinch-valve cam followers, a plunger cam, a plunger-cam follower, a tube receiver, a spring-cam plunger, a position sensor, and a processor. The plunger cam is coupled to the cam shaft. The plunger-cam follower is configured to engage the plunger cam. The spring-biased plunger is coupled to the plunger-cam follower where expansion of the plunger cam along a radial angle intersecting the plunger-cam follower as the cam shaft rotates pushes the plunger cam to disengage the spring-biased plunger from the tube and a spring coupled to the spring-biased plunger biases the spring-biased plunger to apply the crushing force to the tube. The position sensor is operatively coupled to the spring-biased plunger and is configured to determine a position of the spring-biased plunger. The processor estimates fluid flow using the position.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",15/808099,06/11/2019,11/09/2017,https://www.freepatentsonline.com/10316834.pdf
+FPO,Peristaltic pump,"A peristaltic pump includes a cam shaft, a plunger-cam follower, a tube receiver, a spring-biased plunger, a spring, a position sensor, and a processor. The cam shaft has a plunger cam. The plunger-cam follower engages the plunger cam to follow the plunger cam and to disengage from the plunger cam. The spring-biased plunger is coupled to the plunger-cam follower and the spring biases the spring-biased plunger toward the tube receiver. The position sensor determines a position of the spring-biased plunger when the plunger-cam follower is disengaged from the plunger cam and the spring applies a force from the spring-biased plunger against the tube. The processor estimates fluid flow utilizing the position of the spring-biased plunger as indicated by the position sensor when the plunger-cam follower is disengaged from the plunger cam and the spring applies the force from the spring-biased plunger against the tube.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Gray, Larry B. (Merrimack, NH, US)",15/616325,08/25/2020,06/07/2017,https://www.freepatentsonline.com/10753353.pdf
+FPO,Dipeptide analogs for treating conditions associated with amyloid fibril formation,"Dipeptide analogs comprising a tryptophan (Trp) moiety coupled to a beta-sheet breaker moiety derived from alpha-aminoisobutyric acid (Aib) are disclosed. The dipeptide analogs exhibit an improved performance in inhibiting amyloid fibril formation, as compared to previously described dipeptides. Compositions containing the dipeptide analogs and uses thereof in treating amyloid-associated diseases and disorders are also disclosed.","Gazit, Ehud (Ramat-HaSharon, IL)
+Amir, Yaniv (Yahud, IL)
+Buzhansky, Ludmila (Ariel, IL)
+Abel, Ulrich (Bad Homburg, DE)
+Frydman-marom, Anat (Tel-Aviv, IL)",13/884989,08/04/2015,11/15/2011,https://www.freepatentsonline.com/9096645.pdf
+FPO,"Schizophrenia associated genes, proteins and biallelic markers","The invention concerns the human sbg1, g34665, sbg2, g35017 and g35018 genes, polynucleotides, polypeptides biallelic markers, and human chromosome 13q31-q33 biallelic markers. The invention also concerns the association established between schizophrenia and bipolar disorder and the biallelic markers and the sbg1, g34665, sbg2, g35017 and g35018 genes and nucleotide sequences. The invention provides means to identify compounds useful in the treatment of schizophrenia, bipolar disorder and related diseases, means to determine the predisposition of individuals to said disease as well as means for the disease diagnosis and prognosis.","Cohen, Daniel (Le Vezinet, FR)
+Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Bihain, Bernard (Cancale, FR)
+Essioux, Laurent (Paris, FR)",11/145703,11/24/2005,06/06/2005,https://www.freepatentsonline.com/20050260667.pdf
+FPO,European PRRSV strain,The present invention is related to improved modified live PRRS vaccines containing new PRRSV European strains of PRRSV and methods of use and manufacture of such vaccines.,"Burgard, Kim (Wadgassen, DE)
+Kroll, Jeremy (Urbandale, IA, US)
+Layton, Sarah M. (Newton, IA, US)
+Ohlinger, Volker (Havixbeck, DE)
+Orveillon, Francois-xavier (Mainz, DE)
+Pesch, Stefan (Munster, DE)
+Piontkowski, Michael Dennis (Perry, KS, US)
+Roof, Michael B. (Ames, IA, US)
+Utley, Philip (Slater, IA, US)
+Vaughn, Eric Martin (Ames, IA, US)",16/021543,06/02/2020,06/28/2018,https://www.freepatentsonline.com/10668144.pdf
+FPO,"System, method, and apparatus for infusing fluid","A peristaltic pump, and related system method are provided. The peristaltic pump includes a cam shaft, first and second pinch-valve cams, first and second pinch-valve cam followers, a plunger cam, a plunger-cam follower, a tube receiver, and a spring-biased plunger. The first and second pinch-valve cams are coupled to the cam shaft. The first and second pinch-valve cam followers each engage the first and second pinch-valve cams, respectively. The plunger cam is coupled to the cam shaft. The plunger-cam follower engages the plunger cam. The tube receiver is configured to receive a tube. The spring-biased plunger is coupled to the plunger-cam follower such that the expansion of the plunger cam along a radial angle intersecting the plunger-cam follower as the cam shaft rotates pushes the plunger cam follower towards the plunger and thereby disengages the spring-biased plunger from the tube. A spring coupled to the spring-biased plunger biases the spring-biased plunger to apply the crushing force to the tube.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Gray, Larry B. (Merrimack, NH, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Slate, Michael J. (Merrimack, NH, US)
+Place, Michael S. (Manchester, NH, US)",14/873515,02/12/2019,10/02/2015,https://www.freepatentsonline.com/10202970.pdf
+FPO,APM1 biallelic markers and uses thereof,"The invention provides novel APM1 genomic sequences, polypeptides, antibodies, and polynucleotides including biallelic markers derived from the APM1 locus. Primers hybridizing to regions flanking these biallelic markers are also provided. This invention also provides polynucleotides and methods suitable for genotyping a nucleic acid containing sample for one or more biallelic markers of the invention. Additionally, the invention provides methods to detect a statistical correlation between a biallelic marker allele and a phenotype and/or between a biallelic marker haplotype and a phenotype. Further, the invention provides diagnostic methods for early detection of obesity-related disorders.","Bougueleret, Lydie (Petit-Lancy, CH)
+Bihain, Bernard (Cancale, FR)
+Denison, Blake (San Diego, CA, US)
+Yen-potin, Frances (San Diego, CA, US)",10/376460,09/04/2003,02/28/2003,https://www.freepatentsonline.com/20030165967.pdf
+FPO,"GENES, PROTEINS AND BIALLELIC MARKERS RELATED TO CENTRAL NERVOUS SYSTEM DISEASE","The invention concerns genes, polymorphisms and polypeptides related to central nervous systems disease. Included are the G713 gene, the G713 protein and G713 biallelic markers, as well as biallelic markers located on the human chromosome 13q31-q33 locus, and the association established between these biallelic markers and schizophrenia. The invention also provides means to determine the predisposition of individuals to schizophrenia as well as means for the diagnosis of this disease and for the prognosis and detection of an eventual treatment response to therapeutic agents acting against schizophrenia","Blumenfeld, Marta (PARIS, FR)
+Bougueleret, Lydie (VANVES, FR)
+Chumakov, Ilya (VAUX-LE-PENIL, FR)
+Essioux, Laurent (PARIS, FR)
+Cohen, Daniel (NEUILLY-SUR-SEINE, FR)",09/416384,06/27/2002,10/12/1999,https://www.freepatentsonline.com/20020081584.pdf
+FPO,Apparatus for infusing fluid,"A pump for pumping fluid includes a tube platen, a plunger, a bias member, inlet and outlet valves, an actuator mechanism, a position sensor, and a processor. The plunger is configured for actuation toward and away from the infusion-tube when the tube platen is disposed opposite to the plunger. The tube platen can hold an intravenous infusion tube. The bias member is configured to urge the plunger toward the tube platen.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Parker, Jonathan (Henniker, NH, US)
+Pawlowski, Daniel F. (Mont Vernon, NH, US)
+Van Der, Merwe Dirk A. (Canterbury, NH, US)
+Gray, Larry B. (Merrimack, NH, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Slate, Michael J. (Merrimack, NH, US)",17/347959,10/10/2023,06/15/2021,https://www.freepatentsonline.com/11779703.pdf
+FPO,Nucleolin antibodies,"The present invention provides for methods of producing human monoclonal antibodies to human nucleolin, cells producing such antibodies, and the antibodies themselves. Also provided are methods of using the antibodies in diagnosing and treating malignant and non-malignant diseases wherein cells that express nucleolin on the cell surface contribute to the pathophysiology of the disease.","Sutkowski, Natalie (Charleston, SC, US)
+Fernandes, Daniel (Charleston, SC, US)
+Hoel, Brian (Charleston, SC, US)
+Rubinchik, Semyon (Buffalo Grove, IL, US)",14/972698,08/20/2019,12/17/2015,https://www.freepatentsonline.com/10385128.pdf
+FPO,PG-3 and biallelic markers thereof,The invention concerns the genomic sequence and cDNA sequences of the PG-3 gene. The invention also concerns biallelic markers of the PG-3 gene. The invention also concerns polypeptides encoded by the PG-3 gene. The invention also deals with antibodies directed specifically against such polypeptides that are useful as diagnostic reagents.,"Barry, Caroline (Cheptainville, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)",11/028971,07/21/2005,01/04/2005,https://www.freepatentsonline.com/20050158779.pdf
+FPO,PG-3 and biallelic markers thereof,The invention concerns the genomic sequence and cDNA sequences of the PG-3 gene. The invention also concerns biallelic markers of the PG-3 gene. The invention also concerns polypeptides encoded by the PG-3 gene. The invention also deals with antibodies directed specifically against such polypeptides that are useful as diagnostic reagents.,"Barry, Caroline (Les Ulis Cheptainville, FR)
+Chumakov, Ilya (Vaux-le-Penil, FR)",10/468582,08/19/2004,03/15/2004,https://www.freepatentsonline.com/20040163137.pdf
+FPO,PG-3 and biallelic markers thereof,The invention concerns the genomic sequence and cDNA sequences of the PG-3 gene. The invention also concerns biallelic markers of the PG-3 gene. The invention also concerns polypeptides encoded by the PG-3 gene. The invention also deals with antibodies directed specifically against such polypeptides that are useful as diagnostic reagents.,"Barry, Caroline (Les Ulis, FR)
+Chumakov, Ilya (Vaux-le-Penil, FR)",09/790289,09/04/2003,02/21/2001,https://www.freepatentsonline.com/20030165826.pdf
+FPO,Markers for differential diagnosis and methods of use thereof,"The present invention provides methods for the identification and use of diagnostic markers for differential diagnosis of diseases. In a various aspects, the invention relates to methods and compositions able to determine the presence or absence of one, and preferably a plurality, of diseases that exhibit one or more similar or identical symptoms. Such methods and compositions can be used to provide assays and assay devices for use in determining the disease underlying one or more non-specific symptoms exhibited in a clinical setting.","Buechler, Kenneth F. (Rancho Santa Fe, CA, US)
+Maisel, Alan (Del Mar, CA, US)",10/330696,05/11/2010,12/27/2002,https://www.freepatentsonline.com/7713705.pdf
+FPO,Apparatus for infusing fluid,"A pump for pumping fluid includes a tube platen, a plunger, a bias member, inlet and outlet valves, an actuator mechanism, a position sensor, and a processor. The plunger is configured for actuation toward and away from the infusion-tube when the tube platen is disposed opposite to the plunger. The tube platen can hold an intravenous infusion tube. The bias member is configured to urge the plunger toward the tube platen.","Kamen, Dean (Bedford, NH, US)
+Kerwin, John M. (Manchester, NH, US)
+Murphy, Colin H. (Cambridge, MA, US)
+Parker, Jonathan (Contoocook, NH, US)
+Pawlowski, Daniel F. (Raymond, NH, US)
+Van Der, Merwe Dirk A. (Canterbury, NH, US)
+Gray, Larry B. (Merrimack, NH, US)
+Langenfeld, Christopher C. (Nashua, NH, US)
+Place, Michael S. (Manchester, NH, US)
+Slate, Michael J. (Merrimack, NH, US)",15/584376,12/08/2020,05/02/2017,https://www.freepatentsonline.com/10857293.pdf
+FPO,Dipeptide analogs for treating conditions associated with amyloid fibril formation,"Dipeptide analogs comprising a tryptophan (Trp) moiety coupled to a beta-sheet breaker moiety derived from alpha-aminoisobutyric acid (Aib) are disclosed. The dipeptide analogs exhibit an improved performance in inhibiting amyloid fibril formation, as compared to previously described dipeptides. Compositions containing the dipetide analogs and uses thereof in treating amyloid-associated diseases and disorders are also disclosed.","Gazit, Ehud (Ramat-HaSharon, IL)
+Amir, Yaniv (Yahud, IL)
+Buzhansky, Ludmila (Ariel, IL)
+Abel, Ulrich (Bad Homburg, DE)
+Frydman-marom, Anat (Tel-Aviv, IL)",14/805490,04/25/2017,07/22/2015,https://www.freepatentsonline.com/9630989.pdf
+FPO,Polymorphic markers of prostate carcinoma tumor antigen -1(PCTA-1),The invention concerns the geNo.mic sequence and cDNA sequences of the PCTA-1 gene. The invention also concerns biallelic markers of the PCTA-1 gene and the association established between these markers and prostate cancer. The invention provides means to determine the predisposition of individuals to prostate cancer as well as means for the diagNo.sis of prostate cancer and for the progNo.sis/detection of an eventual treatment response to agents acting against prostate cancer.,"Blumenfeld, Marta (Paris, FR)
+Bougueleret, Lydie (Vanves, FR)
+Chumakov, Ilya (Vaux-le-Penil, FR)",10/856888,06/16/2009,05/27/2004,https://www.freepatentsonline.com/7547771.pdf
+FPO,ANTAGONISTS OF CB1 RECEPTOR,"The invention relates to an antagonist of CB1 receptor for use in the treatment of a pathologic condition or disorder selected from the group consisting of bladder and gastrointestinal disorders; inflammatory diseases; cardiovascular diseases; nephropathies; glaucoma; spasticity; cancer; osteoporosis; metabolic disorders; obesity; addiction, dependence, abuse and relapse related disorders; psychiatric and neurological disorders; neurodegenerative disorders; autoimmune hepatitis and encephalitis; pain; reproductive disorders and skin inflammatory and fibrotic diseases.","Piazza, Pier Vincenzo (Bordeaux, FR)
+Vallee, Monique (Bordeaux, FR)
+Marsicano, Giovanni (Bordeaux, FR)
+Felpin, Francois-xavier (Nantes, FR)
+Bellocchio, Luigi (Bordeaux, FR)
+Cota, Daniela (Bordeaux, FR)
+Revest, Jean-michel (Bordeaux, FR)
+Vitiello, Sergio (Bordeaux, FR)
+Spampinato, Umberto (Bordeaux, FR)
+Maldonado, Rafael (Barcelona, ES)",17/496532,05/19/2022,10/07/2021,https://www.freepatentsonline.com/20220153776.pdf
+FPO,European PRRSV strain,The present invention is related to improved modified live PRRS vaccines containing new PRRSV European strains of PRRSV and methods of use and manufacture of such vaccines.,"Burgard, Kim (Wadgassen, DE)
+Kroll, Jeremy (Urbandale, IA, US)
+Layton, Sarah M. (Newtown, IA, US)
+Ohlinger, Volker (Havixbeck, DE)
+Orveillon, Francois-xavier (Mainz, DE)
+Pesch, Stefan (Munster, DE)
+Piontkowski, Michael Dennis (Perry, KS, US)
+Roof, Michael B. (Ames, IA, US)
+Utley, Philip (Slater, IA, US)
+Vaughn, Eric Martin (Ames, IA, US)",13/396298,07/01/2014,02/14/2012,https://www.freepatentsonline.com/8765142.pdf
+FPO,Anti-microbial immunomodulation,"The invention provides methods of modulating an immune system in a vertebrate host for the therapeutic or prophylactic treatment of infection by a first microbial pathogen in a target tissue, comprising administration at an administration site of an effective amount of an antigenic formulation comprising antigenic determinants specific for a second heterologous microbial pathogen.","Gunn, Harold David (Vancouver, CA)
+Dhanji, Salim (North Vancouver, CA)
+Mullins, David W. (Lebanon, NH, US)",15/308302,04/09/2019,05/01/2015,https://www.freepatentsonline.com/10251946.pdf
+FPO,Schizophrenia-related voltage-gated ion channel gene and protein,"The invention concerns the genomic DNA, cDNA, and polypeptide sequences of CanIon, a voltage gated ion channel protein. The invention also concerns biallelic markers of the CanIon gene. The CanIon gene may be used as a biological target for the treatment and diagnosis of schizophrenia, bipolar disorder, and other diseases and conditions.","Cohen, Daniel (Paris, FR)
+Chumakov, Ilya (Vaux-le-Penil, FR)
+Simon, Anne-marie (Paris, FR)
+Abderrahim, Hadi (Charenton le Pont, FR)",10/433580,05/13/2004,11/10/2003,https://www.freepatentsonline.com/20040091497.pdf
+FPO,"Genomic Sequence of the 5-Lipoxygenase-Activating Protein (FLAP), Polymorphic Markers Thereof and Methods for Detection of Asthma",The invention concerns the genomic sequence of the FLAP gene. The invention also concerns biallelic markers of a FLAP gene and the association established between these markers and diseases involving the leukotriene pathway such as asthma. The invention provides means to determine the predisposition of individuals to diseases involving the leukotriene pathway as well as means for the diagnosis of such diseases and for the prognosis/detection of an eventual treatment response to agents acting on the leukotriene pathway.,"Blumenfeld, Marta (PARIS, FR)
+Chumakov, Ilya (VAUX-LE PENIL, FR)
+Bougueleret, Lydie (PETIT-LANCY, CH)",12/345703,06/18/2009,12/30/2008,https://www.freepatentsonline.com/20090155806.pdf
+FPO,"Genomic sequence of the 5-Lipoxygenase-activating protein (FLAP), polymorphic markers thereof and methods for detection of asthma",The invention concerns the genomic sequence of the FLAP gene. The invention also concerns biallelic markers of a FLAP gene and the association established between these markers and diseases involving the leukotriene pathway such as asthma. The invention provides means to determine the predisposition of individuals to diseases involving the leukotriene pathway as well as means for the diagnosis of such diseases and for the prognosis/detection of an eventual treatment response to agents acting on the leukotriene pathway.,"Blumenfeld, Marta (Paris, FR)
+Chumakov, Ilya (Vaux-le Penil, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)",11/512789,01/04/2007,08/29/2006,https://www.freepatentsonline.com/20070003971.pdf
+FPO,"Pharmaceutical formulations comprising 4-{(1R)-2-[(6-{2-[(2,6-dichlorobenzyl)oxy]ethoxy}hexyl)amino]-1-hydroxyethyl}-2-(hydroxymethyl) phenol","Novel pharmaceutical formulations of a beta-2 agonist for inhaled administration via the nose or mouth, and methods of using them are provided.","Baker, Darrell (Middlesex, GB)
+Bruce, Mark (Stevenage, GB)
+Thomas, Marian (Ware, GB)",13/148982,09/14/2021,02/26/2009,https://www.freepatentsonline.com/11116721.pdf
+FPO,Proteins and nucleic acids encoding same,"Disclosed herein are nucleic acid sequences that encode novel polypeptides. Also disclosed are polypeptides encoded by these nucleic acid sequences, and antibodies, which immunospecifically-bind to the polypeptide, as well as derivatives, variants, mutants, or fragments of the aforementioned polypeptide, polynucleotide, or antibody. The invention further discloses therapeutic, diagnostic and research methods for diagnosis, treatment, and prevention of disorders involving any one of these novel human nucleic acids and proteins.","Edinger, Shlomit R. (New Haven, CT, US)
+Macdougall, John R. (Hamden, CT, US)
+Millet, Isabelle (Milford, CT, US)
+Ellerman, Karen (Branford, CT, US)
+Stone, David J. (Guilford, CT, US)
+Gerlach, Valerie (Branford, CT, US)
+Grosse, William M. (Branford, CT, US)
+Alsobrook II, John P. (Madison, CT, US)
+Lepley, Denise M. (Branford, CT, US)
+Rieger, Daniel K. (Branford, CT, US)
+Burgess, Catherine E. (Wethersfield, CT, US)
+Casman, Stacie J. (North Haven, CT, US)
+Spytek, Kimberly A. (New Haven, CT, US)
+Boldog, Ferenc L. (North Haven, CT, US)
+Li, Li (Branford, CT, US)
+Padigaru, Muralidhara (Branford, CT, US)
+Mishra, Vishnu (Gainesville, FL, US)
+Patturajan, Meera (Branford, CT, US)
+Shenoy, Suresh G. (Branford, CT, US)
+Rastelli, Luca (Branford, CT, US)
+Tchernev, Velizar T. (Branford, CT, US)
+Vernet, Corine A. M. (Branford, CT, US)
+Zerhusen, Bryan D. (Branford, CT, US)
+Malyankar, Uriel M. (Branford, CT, US)
+Guo, Xiaojia (Branford, CT, US)
+Miller, Charles E. (Guilford, CT, US)
+Gangolli, Esha A. (Madison, CT, US)",10/087684,09/19/2006,03/01/2002,https://www.freepatentsonline.com/7109000.pdf
+FPO,Gene therapy using transposon-based vectors,Methods and compositions are presented for the administration of transposon based vectors to an animal or human to provide gene therapy to the animal or human.,"Cooper, Richard (Baton Rouge, LA, US)
+Enright, Frederick M. (Baton Rouge, LA, US)
+Fioretti, William C. (Addison, TX, US)",10/583812,12/06/2011,12/24/2004,https://www.freepatentsonline.com/8071364.pdf
+FPO,Full-length human cDNAs encoding potentially secreted proteins,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Dumas Milne, Edwards Jean-baptiste (Paris, FR)
+Bougueleret, Lydie (Petit Lancy, CH)
+Jobert, Severin (Paris, FR)",10/643836,09/18/2007,08/19/2003,https://www.freepatentsonline.com/7271243.pdf
+FPO,CD20-binding proteins comprising Shiga toxin A subunit effector regions for inducing cellular internalization and methods using same,"The present invention provides CD20-binding proteins that bind to and rapidly internalize in a CD20-mediated fashion from a cell surface location to the interior of the cell. CD20-binding proteins of the invention comprise a CD20 binding region and a Shiga toxin effector region. Certain of the disclosed CD20-binding proteins kill cells that express CD20 on their surface. Further, the presently disclosed CD20-binding proteins can comprise additional exogenous materials, such as, e.g., antigens, and are capable of targeted delivery of these additional exogenous materials into the interior of CD20 expressing cells. These CD20-binding proteins have uses in methods such as, e.g., methods involving the efficient cellular internalization of CD20, targeted killing of CD20 expressing cells, delivering exogenous materials inside CD20 expressing cells, detecting CD20 expressing cells, and treating a variety of conditions involving CD20 expressing cells including cancers, tumors, growth abnormalities, and immune disorders.","Poma, Eric (New York, NY, US)
+Kim, Jason (Austin, TX, US)
+Higgins, Jack (Georgetown, TX, US)
+Willert, Erin (Round Rock, TX, US)
+Rajagopalan, Sangeetha (Round Rock, TX, US)",14/643619,10/12/2021,03/10/2015,https://www.freepatentsonline.com/11142584.pdf
+FPO,Polymorphic markers of prostate carcinoma tumor antigen -1(PCTA-1),The invention concerns the geNo.mic sequence and cDNA sequences of the PCTA-1 gene. The invention also concerns biallelic markers of the PCTA-1 gene and the association established between these markers and prostate cancer. The invention provides means to determine the predisposition of individuals to prostate cancer as well as means for the diagNo.sis of prostate cancer and for the progNo.sis/detection of an eventual treatment response to agents acting against prostate cancer.,"Blumenfeld, Marta (Paris, FR)
+Bougueleret, Lydie (Vanves, FR)
+Chumakov, Ilya (Vaux-le-Penil, FR)",10/856888,11/25/2004,05/27/2004,https://www.freepatentsonline.com/20040235037.pdf
+FPO,System and method for optical coherence imaging,"Apparatus and method are provided for transmitting at least one electro-magnetic radiation is provided. In particular, at least one optical fiber having at least one end extending along a first axis may be provided. Further, a light transmissive optical arrangement may be provided in optical cooperation with the optical fiber. The optical arrangement may have a first surface having a portion that is perpendicular to a second axis, and a second surface which includes a curved portion. The first axis can be provided at a particular angle that is more than 0° and less than 90° with respect to the second axis.","Shishkov, Milen (Watertown, MA, US)
+Bouma, Brett Eugene (Quincy, MA, US)
+Tearney, Guillermo J. (Cambridge, MA, US)",12/323228,12/25/2012,11/25/2008,https://www.freepatentsonline.com/RE43875.pdf
+FPO,Isolated human vCOL16A1 polypeptide and fragments thereof,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Bejanin, Stephane (Paris, FR)
+Tanaka, Hiroaki (Antony, FR)",09/924340,07/11/2006,08/06/2001,https://www.freepatentsonline.com/7074901.pdf
+FPO,Phosphorus-containing thyromimetics,"The present invention relates to compounds of phosphonic acid-containing T3 mimetics and monoesters thereof, stereoisomers, pharmaceutically acceptable salts, co-crystals, and prodrugs thereof and pharmaceutically acceptable salts and co-crystals of the prodrugs, as well as their preparation and uses for preventing and/or treating metabolic diseases such as obesity, NASH, hypercholesterolemia and hyperlipidemia, as well as associated conditions such as atherosclerosis, coronary heart disease, impaired glucose tolerance, metabolic syndrome x and diabetes.","Erion, Mark D. (Del Mar, CA, US)
+Jiang, Hongjian (San Diego, CA, US)
+Boyer, Serge H. (San Diego, CA, US)",11/137773,04/07/2009,05/26/2005,https://www.freepatentsonline.com/7514419.pdf
+FPO,Phosphorus-containing thyromimetics,"The present invention relates to compounds of phosphonic acid containing T3 mimetics, stereoisomers, pharmaceutically acceptable salts, co-crystals, and prodrugs thereof and pharmaceutically acceptable salts and co-crystals of the prodrugs, as well as their preparation and uses for preventing and/or treating metabolic diseases such as obesity, NASH, hypercholesterolemia and hyperlipidemia, as well as associated conditions such as atherosclerosis, coronary heart disease, impaired glucose tolerance, metabolic syndromex and diabetes.","Erion, Mark D. (Del Mar, CA, US)
+Jiang, Hongjian (San Diego, CA, US)
+Boyer, Serge H. (San Diego, CA, US)",10/580134,11/09/2010,11/19/2004,https://www.freepatentsonline.com/7829552.pdf
+FPO,Full-length human cDNAs encoding potentially secreted proteins,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Dumas Milne, Edwards Jean-baptiste (Paris, FR)
+Bougueleret, Lydie (Petit Lancy, CH)
+Jobert, Severin (Paris, FR)",09/876997,06/13/2006,06/08/2001,https://www.freepatentsonline.com/7060479.pdf
+FPO,Proteins and nucleic acids encoding same,"Disclosed herein are nucleic acid sequences that encode novel polypeptides. Also disclosed are polypeptides encoded by these nucleic acid sequences, and antibodies, which immunospecifically-bind to the polypeptide, as well as derivatives, variants, mutants, or fragments of the aforementioned polypeptide, polynucleotide, or antibody. The invention further discloses therapeutic, diagnostic and research methods for diagnosis, treatment, and prevention of disorders involving any one of these novel human nucleic acids and proteins.","Edinger, Shlomit R. (New Haven, CT, US)
+Macdougall, John R. (Hamden, CT, US)
+Millet, Isabelle (Milford, CT, US)
+Ellerman, Karen (Branford, CT, US)
+Stone, David J. (Guilford, CT, US)
+Gerlach, Valerie (Branford, CT, US)
+Grosse, William M. (Branford, CT, US)
+John II, Alsobrook P. (Madison, CT, US)
+Lepley, Denise M. (Branford, CT, US)
+Rieger, Daniel K. (Branford, CT, US)
+Burgess, Catherine E. (Wethersfield, CT, US)
+Casman, Stacie J. (North Haven, CT, US)
+Spytek, Kimberly A. (New Haven, CT, US)
+Boldog, Ferenc L. (North Haven, CT, US)
+Li, Li (Branford, CT, US)
+Padigaru, Muralidhara (Branford, CT, US)
+Mishra, Vishnu (Gainesville, FL, US)
+Patturajan, Meera (Branford, CT, US)
+Shenoy, Suresh G. (Branford, CT, US)
+Rastelli, Luca (Guilford, CT, US)
+Tchernev, Velizar T. (Branford, CT, US)
+Vernet, Corine A. M. (Branford, CT, US)
+Zerhusen, Bryan D. (Branford, CT, US)
+Malyankar, Uriel M. (Branford, CT, US)
+Guo, Xiaojia (Branford, CT, US)
+Miller, Charles E. (Guilford, CT, US)
+Gangolli, Esha A. (Madison, CT, US)",10/087684,02/12/2004,03/01/2002,https://www.freepatentsonline.com/20040029116.pdf
+FPO,Proteins and nucleic acids encoding same,"Disclosed herein are nucleic acid sequences that encode novel polypeptides. Also disclosed are polypeptides encoded by these nucleic acid sequences, and antibodies, which immunospecifically-bind to the polypeptide, as well as derivatives, variants, mutants, or fragments of the aforementioned polypeptide, polynucleotide, or antibody. The invention further discloses therapeutic, diagnostic and research methods for diagnosis, treatment, and prevention of disorders involving any one of these novel human nucleic acids and proteins.","Edinger, Shlomit R. (New Haven, CT, US)
+Macdougall, John R. (Hamden, CT, US)
+Millet, Isabelle (Milford, CT, US)
+Ellerman, Karen (Branford, CT, US)
+Stone, David J. (Guilford, CT, US)
+Gerlach, Valerie (Branford, CT, US)
+Grosse, William M. (Branford, CT, US)
+John II, Alsobrook P. (Madison, CT, US)
+Lepley, Denise M. (Branford, CT, US)
+Rieger, Danier K. (Branford, CT, US)
+Burgess, Catherine E. (Wethersfield, CT, US)
+Casman, Stacie J. (North Haven, CT, US)
+Spytek, Kimberly A. (New Haven, CT, US)
+Boldog, Ference L. (North Haven, CT, US)
+Li, Li (Branford, CT, US)
+Padigaru, Muralidhara (Branford, CT, US)
+Mishra, Vishnu (Gainesville, FL, US)
+Patturajan, Meera (Branford, CT, US)
+Shenoy, Suresh G. (Branford, CT, US)
+Rastelli, Luca (Guilford, CT, US)
+Tchernev, Velizar T. (Branford, CT, US)
+Vernet, Corine A. M. (Branford, CT, US)
+Zerhusen, Bryan D. (Branford, CT, US)
+Malyankar, Uriel M. (Branford, CT, US)
+Guo, Xiaojia (Sasha) (Branford, CT, US)
+Miller, Charles E. (Guilford, CT, US)
+Gangolli, Esha A. (Madison, CT, US)
+Grosse, Michael (US)",10/218779,02/12/2004,08/14/2002,https://www.freepatentsonline.com/20040029222.pdf
+FPO,Method and system for modelling bone structure,"The present invention discloses a structural and mechanical model and modeling methods for human bone based on bone's hierarchical structure and on its hierarchical mechanical behavior. The model allows for the assessment of bone deformations, computation of strains and stresses due to the specific forces acting on bone during function, and contemplates forces that do or do not cause viscous effects and forces that cause either elastic or plastic bone deformation.","Ascenzi, Maria-grazia (Santa Monica, CA, US)
+Kabo, John M. (Los Angeles, CA, US)",10/429491,04/01/2004,05/05/2003,https://www.freepatentsonline.com/20040062786.pdf
+FPO,Human cDNAs and proteins and uses thereof,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Bejanin, Stephane (Paris, FR)
+Tanaka, Hiroaki (Antony, FR)",09/924340,02/06/2003,08/06/2001,https://www.freepatentsonline.com/20030027248.pdf
+FPO,Human cDNAs and proteins and uses thereof,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Bejanin, Stephane (Paris, FR)
+Tanaka, Hiroaki (Antony, FR)",10/000986,05/22/2003,11/14/2001,https://www.freepatentsonline.com/20030096247.pdf
+FPO,Full-length human cDNAs encoding potentially secreted proteins,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Dumas Milne, Edwards Jean-baptiste (Paris, FR)
+Bougueleret, Lydie (Petit-Lancy, CH)
+Jobert, Severin (Praha, CZ)",11/197712,06/15/2006,08/04/2005,https://www.freepatentsonline.com/20060130160.pdf
+FPO,Full-length human cDNAs encoding potentially secreted proteins,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Dumas Milne, Edwards Jean-baptiste (Paris, FR)
+Bougueleret, Lydie (Petit Lancy, CH)
+Jobert, Severin (Paris, FR)",10/643836,05/05/2005,08/19/2003,https://www.freepatentsonline.com/20050096458.pdf
+FPO,Full-length human cDNAs encoding potentially secreted proteins,"The invention concerns GENSET polynucleotides and polypeptides. Such GENSET products may be used as reagents in forensic analyses, as chromosome markers, as tissue/cell/organelle-specific markers, in the production of expression vectors. In addition, they may be used in screening and diagnosis assays for abnormal GENSET expression and/or biological activity and for screening compounds that may be used in the treatment of GENSET-related disorders.","Milne Edwards, Jean-baptiste Dumas (Paris, FR)
+Bougueleret, Lydie (Petit Lancy, CH)
+Jobert, Severin (Paris, FR)",09/731872,08/01/2002,12/07/2000,https://www.freepatentsonline.com/20020102604.pdf
