@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { FaBuilding, FaChartBar, FaChartLine, FaChartPie, FaDatabase, FaEye, FaChevronRight } from 'react-icons/fa';
 import './Portfolio.css';
 
+
 export default function Portfolio() {
   const [activeSection, setActiveSection] = useState('architecture');
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -17,36 +18,46 @@ export default function Portfolio() {
 
   const userStories = [
     {
-      role: 'Sales Manager',
-      request: 'To get a dashboard overview of internet sales',
-      value: 'Can follow better which customers and products sells the best',
-      criteria: 'A Power BI dashboard which updates data once a day',
+      role: 'Data Scientist',
+      request: 'To analyze healthcare AI patent trends',
+      value: 'Can identify emerging trends in AI healthcare technologies to inform research and development',
+      criteria: 'Data visualizations of patent trends over time, categorized by technology and region',
     },
     {
-      role: 'Marketing Analyst',
-      request: 'To analyze customer segmentation',
-      value: 'Can tailor marketing campaigns to specific customer groups',
-      criteria: 'Interactive visualizations showing customer segments based on demographics and purchasing behavior',
+      role: 'AI Researcher',
+      request: 'To assess AI patent innovations in healthcare',
+      value: 'Can evaluate the progress of AI technologies in healthcare, identifying gaps for innovation',
+      criteria: 'A dashboard showing the number of patents per AI subfield and insights into key patent filings',
     },
     {
       role: 'Product Manager',
-      request: 'To track product performance over time',
-      value: 'Can identify trends and make data-driven decisions on product improvements',
-      criteria: 'Time series charts showing sales, ratings, and customer feedback for each product',
+      request: 'To prioritize product development based on AI patent activity',
+      value: 'Can align product development with the most patented AI innovations in healthcare',
+      criteria: 'Time series and scatter plots showing patent filings per AI category, with links to associated products',
     },
-  ]
+    {
+      role: 'Healthcare Innovator',
+      request: 'To discover novel AI applications in healthcare patents',
+      value: 'Can gain insights into AI patenting activity, identifying areas for future healthcare innovations',
+      criteria: 'Interactive visualizations showing patent applications, key inventors, and geographical hotspots for healthcare AI',
+    },
+  ];
+  
   const sections = [
     { id: 'architecture', title: 'Project Architecture', icon: <FaBuilding /> },
     { id: 'overview', title: 'Project Overview', icon: <FaChartLine /> },
     { id: 'requirements', title: 'Business Requirements', icon: <FaDatabase /> },
-    { id: 'transformation', title: 'Data Transformation', icon: <FaEye /> },
+    { id: 'transformation', title: 'Data Analysis', icon: <FaEye /> },
     { id: 'visualizations', title: 'Visualizations', icon: <FaChartBar /> },
   ];
+
+  const notebookUrl = "https://nbviewer.org/github/ZakariaBenlamkadam/HealthAI-Patents-Insight/raw/main/analysis_1.ipynb";
+
 
   return (
     <div className="portfolio-container">
       <header className="portfolio-header">
-        <h1>Data Analyst Portfolio</h1>
+        <h1>Big Data Analysis of Patents for Healthcare and AI</h1>
       </header>
       <main className="portfolio-main">
         <nav className="portfolio-nav">
@@ -145,6 +156,7 @@ export default function Portfolio() {
   </div>
 )}
 
+
 {activeSection === 'transformation' && (
   <div
     className="transformation-section"
@@ -160,49 +172,32 @@ export default function Portfolio() {
         backgroundImage: `radial-gradient(circle at var(--x) var(--y), rgba(193, 237, 204, 0.3) 0%, rgba(193, 237, 204, 0) 50%)`,
       }}
     />
-    <h2 className="section-title">Data Cleansing & Transformation (SQL)</h2>
+    <h2 className="section-title">Data Analysis using PySpark</h2>
     <p className="section-description">
-      To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories, the following tables were extracted using SQL.
+      In this analysis, we leverage PySpark to process and extract insights from healthcare and AI patent data. The goal was to identify trends, categorize the data, and derive actionable insights to support decision-making in AI and healthcare.
     </p>
-    <pre className="code-block">
-      <code>{`
--- Cleansed DIM_Date Table --
-SELECT 
-  [DateKey], 
-  [FullDateAlternateKey] AS Date,
-  [EnglishDayNameOfWeek] AS Day, 
-  [EnglishMonthName] AS Month, 
-  Left([EnglishMonthName], 3) AS MonthShort,
-  [MonthNumberOfYear] AS MonthNo, 
-  [CalendarQuarter] AS Quarter, 
-  [CalendarYear] AS Year 
-FROM 
- [AdventureWorksDW2019].[dbo].[DimDate]
-WHERE 
-  CalendarYear >= 2019
-      `}</code>
-    </pre>
+    <div className="cta-section">
+      <p className="cta-text">
+        You can explore the full analysis in the Jupyter Notebook available on GitHub:
+      </p>
+      <a
+        href="https://github.com/ZakariaBenlamkadam/HealthAI-Patents-Insight/blob/main/analysis_1.ipynb"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="cta-link"
+      >
+        HealthAI-Patents-Insight Analysis 1 (GitHub)
+      </a>
+    </div>
   </div>
 )}
+
+
 
           {activeSection === 'visualizations' && (
             <div>
               <h2>Visualizations</h2>
-              {/*<div className="visualization-cards">
-                <div className="visualization-card">
-                  <h3>Sales Overview</h3>
-                  <FaChartPie className="visualization-icon" />
-                </div>
-                <div className="visualization-card">
-                  <h3>Cutomer Details</h3>
-                  <FaChartLine className="visualization-icon" />
-                </div>
-                <div className="visualization-card">
-                  <h3>Product Details</h3>
-                  <FaChartBar className="visualization-icon" />
-                </div>
-                
-              </div>*/}
+              
               <iframe
               className='responsive-iframe1'
       title="Sales Report_Finished"
