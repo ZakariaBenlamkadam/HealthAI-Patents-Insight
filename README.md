@@ -3,6 +3,5 @@ End-to-end solution leveraging AI to analyze health patents. Data scrapped from 
 
 [Download the project demonstration video](https://github.com/ZakariaBenlamkadam/HealthAI-Patents-Insight/raw/main/video/mediAi_1.mp4)
 
-[The Visualisation]([https://github.com/ZakariaBenlamkadam/HealthAI-Patents-Insight/raw/main/video/mediAi_1.mp4](https://app.powerbi.com/view?r=eyJrIjoiNzhjYzZkYTYtOWVjOS00YjE4LWJhYzItYjViOWNlNWM3Y2YyIiwidCI6ImMyNzg3OTIyLTExZDktNGNhOC1hYWRmLTVlZjdmZjMxYTEyNyJ9
-))
+[The Visualisation](https://app.powerbi.com/view?r=eyJrIjoiNzhjYzZkYTYtOWVjOS00YjE4LWJhYzItYjViOWNlNWM3Y2YyIiwidCI6ImMyNzg3OTIyLTExZDktNGNhOC1hYWRmLTVlZjdmZjMxYTEyNyJ9)
 
