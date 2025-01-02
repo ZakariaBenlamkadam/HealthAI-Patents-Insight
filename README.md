@@ -29,6 +29,13 @@ MediAi's architecture is a four-stage data pipeline:
 - **🤖 Machine Learning:** Spark MLlib for training models.  
 - **🧠 NLP:** Hugging Face and Google BERT for extracting topics and sentiments.
 
+  
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="video/number of publications by year.png" alt="Image 1" style="width: 300px; margin-right: 10px;">
+  <img src="video/world cloud.png" alt="Image 2" style="width: 300px; margin-right: 10px;">
+  <img src="video/brevets of top assignees au fil de temps.png" alt="Image 3" style="width: 300px;">
+</div>
+
 ### 4️⃣ **Visualization**  
 - **📊 Dashboards:** Built in Looker Studio.  
 - **🌐 Web Application:** Powered by ReactJS & Node.js.
@@ -65,13 +72,6 @@ MediAi's architecture is a four-stage data pipeline:
 ### 🏢 Data Warehousing  
 - Transform data into a schema ready for Snowflake integration.
 
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="video/number of publications by year.png" alt="Image 1" style="width: 400px; margin-right: 10px;">
-  <img src="video/world cloud.png" alt="Image 2" style="width: 400px; margin-right: 10px;">
-  <img src="video/brevets of top assignees au fil de temps.png" alt="Image 3" style="width: 400px;">
-</div>
 
 
 ---
