@@ -15,6 +15,9 @@ Dive deep into the world of patents with MediAi! 🎉
 ## 🏗️ Project Architecture
 
 MediAi's architecture is a four-stage data pipeline:
+<div align="center">
+  <img src="video/Architecture1.png" alt="architecture" style="width: 500px;">
+</div>
 
 ### 1️⃣ **Sourcing**  
 - **🔍 Data Acquisition:** Scraping patent data from sources like Google Patents, WIPO, Espacenet, and USPTO.  
