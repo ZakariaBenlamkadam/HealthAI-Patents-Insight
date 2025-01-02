@@ -16,7 +16,7 @@ Dive deep into the world of patents with MediAi! 🎉
 
 MediAi's architecture is a four-stage data pipeline:
 <div align="center">
-  <img src="video/Architecture1.png" alt="architecture" style="width: 500px;">
+  <img src="video/Architecture1.png" alt="architecture" style="width: 800px;">
 </div>
 
 ### 1️⃣ **Sourcing**  
