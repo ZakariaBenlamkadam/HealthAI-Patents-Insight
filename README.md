@@ -45,8 +45,8 @@ MediAi's architecture is a four-stage data pipeline:
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="video/page 1.png" alt="Image 1" style="width: 400px; margin-right: 10px;">
-  <img src="video/page 2.png" alt="Image 2" style="width: 400px; margin-right: 10px;">
+  <img src="video/page 1.png" alt="Image 1" style="width: 500px; margin-right: 10px;">
+  <img src="video/page 2.png" alt="Image 2" style="width: 500px; margin-right: 10px;">
   
 </div>
 
