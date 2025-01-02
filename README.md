@@ -45,8 +45,8 @@ MediAi's architecture is a four-stage data pipeline:
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="video/page 1.png" alt="Image 1" style="width: 300px; margin-right: 10px;">
-  <img src="video/page 2.png" alt="Image 2" style="width: 300px; margin-right: 10px;">
+  <img src="video/page 1.png" alt="Image 1" style="width: 400px; margin-right: 10px;">
+  <img src="video/page 2.png" alt="Image 2" style="width: 400px; margin-right: 10px;">
   
 </div>
 
@@ -77,8 +77,7 @@ MediAi's architecture is a four-stage data pipeline:
 - **Word Clouds** for popular tags.  
 - Use **TF-IDF** to extract key tags.
 
-### 🧩 Text Similarity  
-- Compare patent abstracts for similarities. *(Future updates to improve this feature)*
+
 
 ### 🏢 Data Warehousing  
 - Transform data into a schema ready for Snowflake integration.
